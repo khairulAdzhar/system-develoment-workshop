@@ -1,0 +1,34 @@
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\bin\Debug\project-workshop.exe.config
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\bin\Debug\project-workshop.exe
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\bin\Debug\project-workshop.pdb
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\bin\Debug\Guna.UI2.dll
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project-workshop.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project-workshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project_workshop.Properties.Resources.resources
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project-workshop.csproj.GenerateResource.cache
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project-workshop.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project-workshop.csproj.CopyComplete
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project-workshop.exe
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project-workshop.pdb
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project_workshop.Login.resources
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project_workshop.Page1.resources
+<<<<<<< HEAD
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project_workshop.StaffDasboard.resources
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project_workshop.AddPatientDasboard.resources
+C:\Users\Huawei\source\c#\project-workshop\project-workshop\obj\Debug\project_workshop.StaffManagePatient.resources
+=======
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\bin\Debug\project-workshop.exe.config
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\bin\Debug\project-workshop.exe
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\bin\Debug\project-workshop.pdb
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\obj\Debug\project-workshop.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\obj\Debug\project-workshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\obj\Debug\project_workshop.Login.resources
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\obj\Debug\project_workshop.Page1.resources
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\obj\Debug\project_workshop.Properties.Resources.resources
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\obj\Debug\project-workshop.csproj.GenerateResource.cache
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\obj\Debug\project-workshop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\obj\Debug\project-workshop.csproj.CopyComplete
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\obj\Debug\project-workshop.exe
+C:\Users\user\source\repos\sistem-develoment-workshop\project-workshop\obj\Debug\project-workshop.pdb
+>>>>>>> 09704c75d309f895caea6a1e61f429578816e1c3
